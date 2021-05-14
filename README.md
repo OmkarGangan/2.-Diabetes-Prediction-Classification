@@ -1,4 +1,4 @@
-# 2.-Diabetes-Prediction-Classification
+# ML 2-Diabetes-Prediction-Classification
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. \
 Predict if a person has diabetes or not. \
 Features: \
